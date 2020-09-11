@@ -1,0 +1,6 @@
+{
+  "browser": "chrome",
+  "wait_time": 10
+}
+// pipenv run python -m pytest
+// I do not have firefox or the geckodriver installed on this laptop.
